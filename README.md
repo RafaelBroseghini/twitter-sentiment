@@ -21,7 +21,7 @@ npm run start
 
 - Change maxLength of the `textarea` element to a desired number.
 
-## Contributing :thought_baloon:
+## Contributing :speech_balloon:
 
 1. :spaghetti: Fork this repo!
 2. Create your feature branch: `git checkout -b my-new-feature`
