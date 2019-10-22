@@ -5,17 +5,17 @@ import { App } from 'components/App';
 
 export async function serverRenderer() {
   const initialData = {
-    appName: 'Reactful',
+    appName: 'Sentiment',
   };
 
   const pageData = {
-    title: `Hello ${initialData.appName}`,
+    title: `Tweet ${initialData.appName}`,
   };
 
   return Promise.resolve({
     initialData,
     initialMarkup: ReactDOMServer.renderToString(
-      <App initialData={initialData} />
+      <App initialData={initialData} />,
     ),
     pageData,
   });
