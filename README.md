@@ -2,6 +2,8 @@
 
 > **Real time sentiment analysis of any text blob.**
 
+[!How to Use](/twitter_sentiment.gif)
+
 ## Why Twitter?
 
 - We believed it was a good idea to limit to a total character count of 170.
