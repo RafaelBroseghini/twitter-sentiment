@@ -2,7 +2,7 @@
 
 > **Real time sentiment analysis of any text blob.**
 
-[!How to Use](/twitter_sentiment.gif)
+![How to Use](/twitter_sentiment.gif)
 
 ## Why Twitter?
 
